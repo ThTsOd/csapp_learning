@@ -72,7 +72,7 @@ fun7是一个类似二叉树查找过程，将二叉树还原
 
 得到结果
 
-![IDA7_3](./PIC/IDA7_3.PNG)
+![IDA7_3](./pic/IDA7_3.PNG)
 
 0x14 ,0x16均为正确答案，即20,22
 
@@ -80,5 +80,5 @@ fun7是一个类似二叉树查找过程，将二叉树还原
 
 程序捕捉信号SIGINT(Ctrl+C可以发出)，不会引爆bomb :-)
 
-![Egg](./pic/IDAEgg.PNG)
+![Egg](./pic/IDAEGG.PNG)
 
